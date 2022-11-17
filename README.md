@@ -18,7 +18,7 @@ The customer can signin/signup with Google and email password. Customers can pur
 📘 Manage Order Status <br/>
 📘 Make user admin <br/>
 
-## 🏆 Languages/Frameworks Used:
+## 🏆 Languages / Frameworks Used:
 
 🍧 REACT JS <br/>
 🍧 NODE JS <br/>
