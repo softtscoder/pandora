@@ -20,14 +20,15 @@ The customer can signin/signup with Google and Email Password. Customers can pur
 
 ## 🏆 Languages / Frameworks Used:
 
-🍧 REACT JS <br/>
-🍧 MUI <br/>
-🍧 Bootstrap <br/>
-🍧 JSX <br/>
-🍧 NODE JS <br/>
-🍧 HTML <br/>
-🍧 EXPRESS <br/>
-🍧 CSS <br/>
-🍧 MONGODB <br/>
-🍧 NETLIFY <br/>
-🍧 FIREBASE <br/>
+ REACT JS <br/>
+ NODE JS <br/>
+ HTML <br/>
+ CSS <br/>
+ JSX <br/>
+ Bootstrap <br/>
+ EXPRESS <br/>
+ MONGODB <br/>
+ NETLIFY <br/>
+ FIREBASE <br/>
+ MUI <br/>
+
