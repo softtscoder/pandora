@@ -2,9 +2,6 @@ import { createUserWithEmailAndPassword, getAuth, GoogleAuthProvider, onAuthStat
 import { useEffect, useState } from "react";
 import initializAuthentication from "../firebase/firebase.init";
 
-
-
-
 initializAuthentication();
 
 const UseFirebase = () => {
