@@ -15,19 +15,19 @@ The customer can signin/signup with Google and Email Password. Customers can pur
 📘 Private Route <br/>
 📘 Manage, Create Product <br/>
 📘 Easy Buying <br/>
-📘 Manage Order Status <br/>
 📘 Make user admin <br/>
+📘 Manage Order Status <br/>
 
 ## 🏆 Languages / Frameworks Used:
 
 🍧 REACT JS <br/>
+🍧 MUI <br/>
+🍧 Bootstrap <br/>
+🍧 JSX <br/>
 🍧 NODE JS <br/>
 🍧 HTML <br/>
-🍧 CSS <br/>
-🍧 JSX <br/>
-🍧 Bootstrap <br/>
 🍧 EXPRESS <br/>
+🍧 CSS <br/>
 🍧 MONGODB <br/>
 🍧 NETLIFY <br/>
 🍧 FIREBASE <br/>
-🍧 MUI <br/>
