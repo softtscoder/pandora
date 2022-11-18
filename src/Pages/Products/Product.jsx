@@ -7,22 +7,22 @@ import { Button, CardActionArea, CardActions, Rating } from "@mui/material";
 import "./Products.css";
 import { Link } from "react-router-dom";
 
-const Product = ({ product }) => {
+const Product = ({ selectedProduct }) => {
   // return every product card
   return (
     <Col xs={12} md={4}>
       <Card sx={{ minWidth: "100%" }}>
         <CardActionArea>
-          <CardMedia component='img' image={product.image} alt='jewelry' />
+          <CardMedia component='img' image={selectedProduct.image} alt='jewelry' />
           <CardContent>
-            <p className='product-title'>{product.title}</p>
-            <p className='product-vendor'>{product.vendor}</p>
-            <Rating name='read-only' value={product.rating} readOnly />
+            <p className='product-title'>{selectedProduct.title}</p>
+            <p className='product-vendor'>{selectedProduct.vendor}</p>
+            <Rating name='read-only' value={selectedProduct.rating} readOnly />
           </CardContent>
         </CardActionArea>
         <CardActions className='d-flex justify-content-between'>
-          <p className='product-price'>${product.price}</p>
-          <Link to={`/product/${product._id}`}>
+          <p className='product-price'>${selectedProduct.price}</p>
+          <Link to={`/product/${selectedProduct._id}`}>
             <Button variant='contained'>Order Now</Button>
           </Link>
         </CardActions>

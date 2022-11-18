@@ -2,7 +2,7 @@ import React from "react";
 import "./NotFound.css";
 import { Link } from "react-router-dom";
 
-const NotFound = () => {
+const NotFoundPage = () => {
   // If you put an invalid link it will be return this 404 page
   return (
     <div className='my-md-5 my-4 text-center'>
@@ -21,4 +21,4 @@ const NotFound = () => {
   );
 };
 
-export default NotFound;
+export default NotFoundPage;
